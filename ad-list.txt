@@ -6,3 +6,4 @@ a.mmlgls.com
 *.amghujk.cn
 *.bishufang.cn
 *.ds26.vip
+*.dz53.vip
