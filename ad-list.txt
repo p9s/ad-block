@@ -9,3 +9,4 @@ a.mmlgls.com
 *.dz53.vip
 *.zgyunshu.cn
 *.jysbj.cn
+*.tyjryuk.cn
