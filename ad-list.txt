@@ -10,5 +10,5 @@ a.mmlgls.com
 *.zgyunshu.cn
 *.jysbj.cn
 *.tyjryuk.cn
-https://luoshifen.booktxt.com/ii.com
+https://luoshifen.booktxt.com/ii.com?*
 
