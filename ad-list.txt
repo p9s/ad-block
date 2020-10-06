@@ -11,4 +11,4 @@ a.mmlgls.com
 *.jysbj.cn
 *.tyjryuk.cn
 https://luoshifen.booktxt.com/ii.com?*
-
+*.zgwpjy.top/*
